@@ -1,0 +1,7 @@
+Disp "NO [i] ALLOWED"
+Prompt A,B
+sqrt((A^^2)+(B^^2))->C
+tan^-1(Bn/dA)->D
+round(C,3)->C
+round(D,3)->D
+Disp C,D
